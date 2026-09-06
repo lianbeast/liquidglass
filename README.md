@@ -1,3 +1,6 @@
+Built by **[@ybouane](https://x.com/ybouane)** · see also
+[tiltshift-in-html](https://github.com/ybouane/tiltshift-in-html)
+
 # LiquidGlass
 
 [![LiquidGlass Banner](https://liquid-glass.ybouane.com/banner.jpg)](https://liquid-glass.ybouane.com/)
